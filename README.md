@@ -1,11 +1,7 @@
 # Twig Component Bundle with all HTML5 elements
 
 Symfony UX Twig Components for all HTML5 elements with ARIA support and static attribute validation via Enums.
-It provides auto-completion in your IDE of choice, so all available attributes can be quickly accessed.
-
-## Requirements
-* PHP 8.4 – Since the underlying Extended HTMLDocument library is built upon PHPs DOM\HTMLDocument this bundle currently does not install on older PHP versions.
-Since only its Enums are used here, adding support for older PHP versions could be done if needed or requested.
+It provides auto-completion in your IDE of choice, so all available attributes can be quickly accessed. 
 
 ## Installation
 
