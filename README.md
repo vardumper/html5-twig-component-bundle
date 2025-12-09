@@ -5,7 +5,7 @@ It provides auto-completion in your IDE of choice, so all available attributes c
 
 ## Requirements
 * PHP 8.4 – Since the underlying Extended HTMLDocument library is built upon PHPs DOM\HTMLDocument this bundle currently does not install on older PHP versions.
-Since this bundle, really only makes use of its Enum classes, adding support for older PHP versions could be done if needed or requested.  
+Since only its Enums are used here, adding support for older PHP versions could be done if needed or requested.
 
 ## Installation
 
