@@ -1,6 +1,6 @@
-# HTML Component Bundle
+# HTML5 Elements as Twig Components
 
-Symfony UX Twig Components for all HTML5 elements with ARIA support.
+Symfony UX Twig Components for all HTML5 elements with ARIA support, Enum validation for consistency and enforcing valid HTML5. Classes and templates as generated from the HTML5 specifications. This bundle is part of Extended HTMLDocument library built ontop of PHP's DOM\HTMLDocument.
 
 ## Installation
 
