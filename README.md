@@ -1,6 +1,6 @@
 # HTML5 Elements as Twig Components
 
-Symfony UX Twig Components for all HTML5 elements with ARIA support, Enum validation for consistency and enforcing valid HTML5. Classes and templates as generated from the HTML5 specifications. This bundle is part of Extended HTMLDocument library built ontop of PHP's DOM\HTMLDocument.
+Symfony UX Twig Components for all HTML5 elements with ARIA support, Enum validation for consistency and enforcing valid HTML5. Classes and templates as generated from the HTML5 specifications. This bundle is part of the [Extended HTMLDocument](https://github.com/vardumper/extended-htmldocument) library built ontop of PHP's DOM\HTMLDocument.
 
 ## Installation
 
@@ -63,3 +63,7 @@ Components are organized by type:
 - `Block` - Block-level elements (div, section, article, etc.)
 - `Inline` - Inline elements (span, a, strong, etc.)
 - `Void` - Self-closing elements (img, input, br, etc.)
+
+## Issues
+
+Please report issues in this packages home at [Extended HTMLDocument](https://github.com/vardumper/extended-htmldocument)
