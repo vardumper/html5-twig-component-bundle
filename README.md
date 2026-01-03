@@ -109,7 +109,7 @@ This will render a `data-role="article"` attribute on the generated component's 
 Components are organized by type:
 - `Block` - Block-level elements (div, section, article, etc.)
 - `Inline` - Inline elements (span, a, strong, etc.)
-- `Void` - Self-closing elements (img, input, br, etc.)
+- `Void` - non-rendered elements (head, wbr, meta, etc.)
 
 
 ## Read More
