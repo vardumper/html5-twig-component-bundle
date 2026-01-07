@@ -1,3 +1,7 @@
+[![Latest Stable Version](https://poser.pugx.org/vardumper/html5-twig-component-bundle/v/stable)](https://packagist.org/packages/vardumper/html5-twig-component-bundle) 
+[![Total Downloads](https://poser.pugx.org/vardumper/html5-twig-component-bundle/downloads)](https://packagist.org/packages/vardumper/html5-twig-component-bundle) 
+
+
 # Twig Components for HTML5 Elements
 
 This is a Symfony Bundle which adds pre-built, typesafe, auto-generated Twig Components for all HTML5 elements. It comes with full WCAG, ARIA support, also adds support for Alpine.js attributes. It makes use of [Extended HTMLDocument](https://github.com/vardumper/extended-htmldocument) which is a schema-first library that improves HTML5 support in PHP 8.4. Mainly used for validation of immutable enum attributes.
