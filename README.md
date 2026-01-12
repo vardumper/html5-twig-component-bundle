@@ -1,27 +1,9 @@
-<table align="center" style="border-collapse:collapse !important; border:none !important;">
-  <tr style="border:0px none; border-top: 0px none !important;">
-    <td align="center" valign="middle" style="padding:0 1rem; border:none !important;">
-      <a href="https://www.w3.org/TR/2011/WD-html5-20110405/" target="_blank">
-        <img src="https://vardumper.github.io/extended-htmldocument/html5_logo-with-wordmark.svg" style="display:block; height:90px; width:auto; max-width:300px;" alt="HTML5 Logo" />
-      </a>
-    </td>
-    <td align="center" valign="middle" style="padding:0 1rem; border:none !important;">
-      <a href="https://symfony.com" target="_blank">
-        <img src="https://vardumper.github.io/extended-htmldocument/symfony_black_03.svg" style="display:block; height:120px; width:auto; max-width:270px;" alt="Symfony Logo" />
-      </a>
-    </td>
-    <td align="center" valign="middle" style="padding:0 1rem; border:none !important;">
-      <a href="https://ux.symfony.com/twig-component" target="_blank">
-        <img src="https://vardumper.github.io/extended-htmldocument/file_type_twig.svg" style="display:block; height:100px; width:auto; max-width:220px;" alt="Twig Component Logo" />
-      </a>
-    </td>
-  </tr>
-</table>
-<h1 align="center">Twig Components for HTML5 Elements</h1>
+[![Latest Stable Version](https://poser.pugx.org/vardumper/html5-twig-component-bundle/v/stable)](https://packagist.org/packages/vardumper/html5-twig-component-bundle) 
+[![Total Downloads](https://poser.pugx.org/vardumper/html5-twig-component-bundle/downloads)](https://packagist.org/packages/vardumper/html5-twig-component-bundle) 
+[![Vulnerabilities for html5-twig-component-bundle](https://dtrack.erikpoehler.us/api/v1/badge/vulns/project/404a3506-2b62-4a9e-8617-e80f3ebb1f03?apiKey=odt_J5OKz9JcWpKAnqz80whxTvwA3oQjGBGy)](https://dtrack.erikpoehler.us/projects/404a3506-2b62-4a9e-8617-e80f3ebb1f03)
 
-<p dir="auto" align="center"><a href="https://packagist.org/packages/vardumper/html5-twig-component-bundle" rel="nofollow"><img src="https://camo.githubusercontent.com/6a9ae6cc08f06f37eb7ded1283ca4ea01b8a932983b40db638f4e77c246a2277/68747470733a2f2f706f7365722e707567782e6f72672f76617264756d7065722f68746d6c352d747769672d636f6d706f6e656e742d62756e646c652f762f737461626c65" alt="Latest Stable Version" data-canonical-src="https://poser.pugx.org/vardumper/html5-twig-component-bundle/v/stable" style="max-width: 100%;"></a>
-<a href="https://packagist.org/packages/vardumper/html5-twig-component-bundle" rel="nofollow"><img src="https://camo.githubusercontent.com/b6c67f12e11c01f06759b7f274e57270f4c415cb3293f85158e628213d4f9edb/68747470733a2f2f706f7365722e707567782e6f72672f76617264756d7065722f68746d6c352d747769672d636f6d706f6e656e742d62756e646c652f646f776e6c6f616473" alt="Total Downloads" data-canonical-src="https://poser.pugx.org/vardumper/html5-twig-component-bundle/downloads" style="max-width: 100%;"></a>
-<a href="https://dtrack.erikpoehler.us/projects/404a3506-2b62-4a9e-8617-e80f3ebb1f03" rel="nofollow"><img src="https://camo.githubusercontent.com/5f252a080d33632162f81a86ad07811b851bbf20facd24b6d581f85bcd4e94e9/68747470733a2f2f64747261636b2e6572696b706f65686c65722e75732f6170692f76312f62616467652f76756c6e732f70726f6a6563742f34303461333530362d326236322d346139652d383631372d6538306633656262316630333f6170694b65793d6f64745f4a354f4b7a394a6357704b416e717a383077687854767741336f516a47424779" alt="Vulnerabilities for html5-twig-component-bundle" data-canonical-src="https://dtrack.erikpoehler.us/api/v1/badge/vulns/project/404a3506-2b62-4a9e-8617-e80f3ebb1f03?apiKey=odt_J5OKz9JcWpKAnqz80whxTvwA3oQjGBGy" style="max-width: 100%;"></a></p>
+
+# Twig Components for HTML5 Elements
 
 This is a Symfony Bundle which adds pre-built, typesafe, auto-generated Twig Components for all HTML5 elements. It comes with full WCAG, ARIA support, also adds support for Alpine.js attributes. It makes use of [Extended HTMLDocument](https://github.com/vardumper/extended-htmldocument) which is a schema-first library that improves HTML5 support in PHP 8.4. Mainly used for validation of immutable enum attributes.
 
