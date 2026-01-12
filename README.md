@@ -7,12 +7,12 @@
     </td>
     <td align="center" valign="middle" style="padding:0 1rem; border:none !important;">
       <a href="https://symfony.com" target="_blank">
-        <img src="https://vardumper.github.io/extended-htmldocument/symfony_black_03.svg" style="display:block; height:100px; width:auto; max-width:220px;" alt="Symfony Logo" />
+        <img src="https://vardumper.github.io/extended-htmldocument/symfony_black_03.svg" style="display:block; height:120px; width:auto; max-width:270px;" alt="Symfony Logo" />
       </a>
     </td>
     <td align="center" valign="middle" style="padding:0 1rem; border:none !important;">
       <a href="https://ux.symfony.com/twig-component" target="_blank">
-        <img src="https://vardumper.github.io/extended-htmldocument/twig-component.png" style="display:block; height:100px; width:auto; max-width:220px;" alt="Twig Component Logo" />
+        <img src="https://vardumper.github.io/extended-htmldocument/file_type_twig.svg" style="display:block; height:100px; width:auto; max-width:220px;" alt="Twig Component Logo" />
       </a>
     </td>
   </tr>
