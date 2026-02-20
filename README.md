@@ -50,13 +50,6 @@ twig_component:
     defaults:
         Html\TwigComponentBundle\Twig\: '%kernel.project_dir%/vendor/vardumper/html5-twig-component-bundle/src/Twig/'
 ```
-Additionally, register the `@HtmlTwigComponent` namespace so that Twig can find templates in that path:
-```yaml
-twig:
-    file_name_pattern: '*.twig'
-    paths:
-        '%kernel.project_dir%/vendor/vardumper/html5-twig-component-bundle/src/Resources': HtmlTwigComponent
-```
 
 All Twig Components are automatically discovered and registered through the bundle's DependencyInjection extension. No manual service configuration required!
 
