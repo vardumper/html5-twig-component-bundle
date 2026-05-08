@@ -3,6 +3,11 @@
   "description": "Symfony UX Twig Components for typesafe HTML5 elements with ARIA support & enum validation",
   "type": "symfony-bundle",
   "license": "MIT",
+  "support": {
+        "docs": "https://vardumper.github.io/extended-htmldocument/frameworks/symfony.html",
+        "source": "https://github.com/vardumper/html5-twig-component-bundle",
+        "issues": "https://github.com/vardumper/extended-htmldocument/issues"
+  },
   "keywords": [
     "symfony",
     "twig",
