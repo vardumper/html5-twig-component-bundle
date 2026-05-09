@@ -55,7 +55,7 @@
       "require": "^5.4|^6.0|^7.0|^8.0"
     }
   },
-  "version": "0.2.91",
+  "version": "0.2.92",
   "scripts": {
     "test": "XDEBUG_MODE=off vendor/bin/pest --exclude-group=benchmark",
     "test:coverage": "composer run test:coverage:unit",
